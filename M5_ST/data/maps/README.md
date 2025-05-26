@@ -1,0 +1,1 @@
+This data has been pulled from https://github.com/sh4rkman/SquadCalc.

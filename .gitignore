@@ -364,7 +364,11 @@ FodyWeavers.xsd
 
 # Logo files
 logoST.png
+logoST.ico
 icon.xcf
 
 # Release files
 M5_ST/distrib/
+
+# Imgui stuff
+M5_ST/imgui.ini
